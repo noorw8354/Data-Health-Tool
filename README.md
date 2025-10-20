@@ -73,7 +73,7 @@ This repository highlights the **methodology, structure, and automation logic** 
 
 **Noor Wali**  
 Expert Data Analyst – MEA | Haleon  
-[LinkedIn](https://www.linkedin.com/in/your-link) | [GitHub](https://github.com/noorw8354)
+[LinkedIn](https://www.linkedin.com/in/noor-wali-9ba671175/) | [GitHub](https://github.com/noorw8354)
 
 ---
 
